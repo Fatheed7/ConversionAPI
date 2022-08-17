@@ -1,0 +1,378 @@
+{
+  "data": [
+    {
+      "bit": {
+        "byte": 0.125,
+        "kilobyte": 0.000125,
+        "megabyte": 0.000000125,
+        "gigabyte": 0.00000000000125,
+        "terabyte": 0.00000000000000125,
+        "petabyte": 0.0000000000000000000125,
+        "exabyte": 0.000000000000000000000000125,
+        "zettabyte": 0.000000000000000000000000000000125,
+        "yottabyte": 0.00000000000000000000000000000000000000125
+      },
+      "byte": {
+        "bit": 8,
+        "kilobyte": 0.0078125,
+        "megabyte": 0.0000078125,
+        "gigabyte": 0.0000000078125,
+        "terabyte": 0.000000000000078125,
+        "petabyte": 0.0000000000000078125,
+        "exabyte": 0.00000000000000078125,
+        "zettabyte": 0.000000000000000078125,
+        "yottabyte": 0.00000000000000000000078125
+      },
+      "kilobyte": {
+        "bit": 8192,
+        "byte": 1024,
+        "megabyte": 0.001024,
+        "gigabyte": 0.000001,
+        "terabyte": 0.000000001,
+        "petabyte": 0.000000000001,
+        "exabyte": 0.000000000000001,
+        "zettabyte": 0.00000000000000001,
+        "yottabyte": 0.00000000000000000001
+      },
+      "megabyte": {
+        "bit": 8000000,
+        "byte": 1000000,
+        "kilobyte": 1000,
+        "gigabyte": 0.001,
+        "terabyte": 0.000001,
+        "petabyte": 0.000000001,
+        "exabyte": 0.000000000001,
+        "zettabyte": 0.00000000000000001,
+        "yottabyte": 0.00000000000000000001
+      },
+      "gigabyte": {
+        "bit": 8000000000,
+        "byte": 1000000000,
+        "kilobyte": 1000000,
+        "megabyte": 1000,
+        "terabyte": 0.001,
+        "petabyte": 0.000001,
+        "exabyte": 0.000000001,
+        "zettabyte": 0.000000000001,
+        "yottabyte": 0.000000000000001
+      },
+      "terabyte": {
+        "bit": 8000000000000,
+        "byte": 1000000000000,
+        "kilobyte": 1000000000,
+        "megabyte": 1000000,
+        "gigabyte": 1000,
+        "petabyte": 0.001,
+        "exabyte": 0.000001,
+        "zettabyte": 0.000000001,
+        "yottabyte": 0.000000000001
+      },
+      "petabyte": {
+        "bit": 8000000000000000,
+        "byte": 10000000000000000,
+        "kilobyte": 1000000000000,
+        "megabyte": 1000000000,
+        "gigabyte": 1000000,
+        "terabyte": 1000,
+        "exabyte": 0.001,
+        "zettabyte": 0.000001,
+        "yottabyte": 0.000000001
+      },
+      "exabyte": {
+        "bit": 8000000000000000000,
+        "byte": 1000000000000000000,
+        "kilobyte": 1000000000000000,
+        "megabyte": 1000000000000,
+        "gigabyte": 1000000000,
+        "terabyte": 1000000,
+        "petabyte": 1000,
+        "zettabyte": 0.001,
+        "yottabyte": 0.000001
+      },
+      "zettabyte": {
+        "bit": 8000000000000000000000,
+        "byte": 1000000000000000000000,
+        "kilobyte": 1000000000000000000,
+        "megabyte": 1000000000000000,
+        "gigabyte": 1000000000000,
+        "terabyte": 1000000000,
+        "petabyte": 1000000,
+        "exabyte": 1000,
+        "yottabyte": 0.001
+      },
+      "yottabyte": {
+        "bit": 8000000000000000000000000,
+        "byte": 1000000000000000000000000,
+        "kilobyte": 1000000000000000000000,
+        "megabyte": 100000000000000000000,
+        "gigabyte": 1000000000000000,
+        "terabyte": 1000000000000,
+        "petabyte": 1000000000,
+        "exabyte": 1000000,
+        "zettabyte": 1000
+      }
+    }
+  ],
+  "distance": [
+    {
+      "millimetre": {
+        "centimetre": 0.01,
+        "metre": 0.001,
+        "kilometre": 0.000001,
+        "mile": 0.000000621371,
+        "yard": 0.00109361,
+        "foot": 0.0003048,
+        "inch": 0.0000254,
+        "nautical mile": 0.0000000539957,
+        "light year": 0.0000000000000001057,
+        "parsec": 0.00000000000000000324,
+        "astronomical unit": 0.00000000000000000324,
+        "light second": 0.000000000000000299792458
+      },
+      "centimetre": {
+        "millimetre": 10,
+        "metre": 0.1,
+        "kilometre": 0.0001,
+        "mile": 0.00000621371,
+        "yard": 0.0109361,
+        "foot": 0.03048,
+        "inch": 0.0254,
+        "nautical mile": 0.000539957,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "metre": {
+        "millimetre": 1000,
+        "centimetre": 100,
+        "kilometre": 0.001,
+        "mile": 0.000621371,
+        "yard": 1.09361,
+        "foot": 30.48,
+        "inch": 2.54,
+        "nautical mile": 0.000539957,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "kilometre": {
+        "millimetre": 1000000,
+        "centimetre": 100000,
+        "metre": 1000,
+        "mile": 0.621371,
+        "yard": 1093.61,
+        "foot": 3048,
+        "inch": 25.4,
+        "nautical mile": 0.539957,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "mile": {
+        "millimetre": 1609344,
+        "centimetre": 160934,
+        "metre": 1609.344,
+        "kilometre": 1.609344,
+        "yard": 1760,
+        "foot": 5280,
+        "inch": 63360,
+        "nautical mile": 0.868976,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "yard": {
+        "millimetre": 0.9144,
+        "centimetre": 0.9144,
+        "metre": 0.9144,
+        "kilometre": 0.0009144,
+        "mile": 0.000568182,
+        "foot": 3,
+        "inch": 36,
+        "nautical mile": 0.000493737,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "foot": {
+        "millimetre": 30.48,
+        "centimetre": 30.48,
+        "metre": 0.3048,
+        "kilometre": 0.0003048,
+        "mile": 0.000189394,
+        "yard": 0.333333,
+        "inch": 12,
+        "nautical mile": 0.0001645788,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "inch": {
+        "millimetre": 25.4,
+        "centimetre": 2.54,
+        "metre": 0.0254,
+        "kilometre": 0.0000254,
+        "mile": 0.0000157828,
+        "yard": 0.0277778,
+        "foot": 0.0833333,
+        "nautical mile": 0.0000137135,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "nautical_mile": {
+        "millimetre": 1852000,
+        "centimetre": 185200,
+        "metre": 1852,
+        "kilometre": 1.852,
+        "mile": 1.15078,
+        "yard": 2025.37,
+        "foot": 6076.115,
+        "inch": 72913.38,
+        "light year": 0.0000000001057,
+        "parsec": 0.0000000000324,
+        "astronomical unit": 0.0000000000324,
+        "light second": 0.00000000299792458
+      },
+      "light_year": {
+        "millimetre": 9460730472580800,
+        "centimetre": 946073047258080,
+        "metre": 9460730472580.8,
+        "kilometre": 946073047258,
+        "mile": 9460730472.5808,
+        "yard": 9460730472.5808,
+        "foot": 9460730472.5808,
+        "inch": 9460730472.5808,
+        "nautical mile": 9460730472.5808,
+        "light second": 9460730472.5808,
+        "parsec": 9460730472.5808,
+        "astronomical unit": 9460730472.5808
+      },
+      "parsec": {
+        "millimetre": 3085677581291392000,
+        "centimetre": 3085677581291392,
+        "metre": 3085677581291392,
+        "kilometre": 3085677581291392,
+        "mile": 3085677581291392,
+        "yard": 3085677581291392,
+        "foot": 3085677581291392,
+        "inch": 3085677581291392,
+        "nautical mile": 3085677581291392,
+        "light year": 3085677581291392,
+        "light second": 3085677581291392,
+        "astronomical unit": 3085677581291392
+      },
+      "astronomical_unit": {
+        "millimetre": 149597870700,
+        "centimetre": 149597870700,
+        "metre": 149597870700,
+        "kilometre": 149597870700,
+        "mile": 149597870700,
+        "yard": 149597870700,
+        "foot": 149597870700,
+        "inch": 149597870700,
+        "nautical mile": 149597870700,
+        "light year": 149597870700,
+        "light second": 149597870700,
+        "parsec": 149597870700
+      },
+      "light_second": {
+        "millimetre": 299792458,
+        "centimetre": 299792458,
+        "metre": 299792458,
+        "kilometre": 299792458,
+        "mile": 299792458,
+        "yard": 299792458,
+        "foot": 299792458,
+        "inch": 299792458,
+        "nautical mile": 299792458,
+        "light year": 299792458,
+        "parsec": 299792458,
+        "astronomical unit": 299792458
+      }
+    }
+  ],
+  "temperature": [
+    {
+      "celcius": {
+        "fahrenheit": "lambda x: (x * 9/5) + 32",
+        "kelvin": "lambda x: x + 273.15"
+      },
+      "fahrenheit": {
+        "celcius": "lambda x: (x - 32) * 5/9",
+        "kelvin": "lambda x: (x - 32) * 5/9 + 273.15"
+      },
+      "kelvin": {
+        "celcius": "lambda x: x - 273.15",
+        "fahrenheit": "lambda x: (x - 273.15) * 9/5 + 32"
+      }
+    }
+  ],
+  "time": [
+    {
+      "second": {
+        "minute": 60,
+        "hour": 3600,
+        "day": 86400,
+        "week": 604800,
+        "month": 2592000,
+        "year": 31536000
+      },
+      "minute": {
+        "second": "1 / 60",
+        "hour": 60,
+        "day": 1440,
+        "week": 10080,
+        "month": 43800,
+        "year": 525960
+      },
+      "hour": {
+        "second": "1 / 3600",
+        "minute": "1 / 60",
+        "day": 24,
+        "week": 168,
+        "month": 730,
+        "year": 8760
+      },
+      "day": {
+        "second": "1 / 86400",
+        "minute": "1 / 1440",
+        "hour": "1 / 24",
+        "week": 7,
+        "month": 30,
+        "year": 365
+      },
+      "week": {
+        "second": "1 / 604800",
+        "minute": "1 / 10080",
+        "hour": "1 / 168",
+        "day": "1 / 7",
+        "month": 4.34812141,
+        "year": 52.1775
+      },
+      "month": {
+        "second": "1 / 2592000",
+        "minute": "1 / 43800",
+        "hour": "1 / 730",
+        "day": "1 / 30",
+        "week": "1 / 4.34812141",
+        "year": 12
+      },
+      "year": {
+        "second": "1 / 31536000",
+        "minute": "1 / 525960",
+        "hour": "1 / 8760",
+        "day": "1 / 365",
+        "week": "1 / 1.00273790935",
+        "month": "1 / 12"
+      }
+    }
+  ]
+}
